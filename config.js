@@ -15,7 +15,7 @@
 export const CONFIG = Object.freeze({
   // OAuth 2.0 Web Client ID from Google Cloud Console → APIs & Services →
   // Credentials → Create Credentials → OAuth client ID → Web application.
-  GOOGLE_CLIENT_ID: 'YOUR_GOOGLE_CLIENT_ID.apps.googleusercontent.com',
+  GOOGLE_CLIENT_ID: '423868723475-74n21sif44mefcp7b532n5lmgq8std5s.apps.googleusercontent.com',
 
   // Narrowest Drive scope available: RaghuVault can only ever see or manage
   // files/folders that it itself created (or that the user explicitly opened
