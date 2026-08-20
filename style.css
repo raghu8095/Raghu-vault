@@ -4,6 +4,9 @@
    navy interior, brass hardware accent, monospace "ledger" metadata, and a
    combination-dial mark as the one signature visual element.
    ========================================================================== */
+[hidden] {
+  display: none !important;
+}
 
 :root {
   /* Surfaces */
